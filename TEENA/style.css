@@ -1,0 +1,54 @@
+.nav{
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     backdrop-filter: blur;
+     
+}
+.img{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-image: hidden;
+     margin-right: 5px;
+}
+
+ul{
+     list-style: none;
+}
+.btn{
+     background-color: brown;
+     color: white;
+     border: hidden;
+     border-radius: 7px;
+     height: 35px;
+}
+.div1{
+     background-image: url(https://s3-alpha-sig.figma.com/img/bb91/b65a/1151db4fa069bb963c60a5708bb2138f?Expires=1699228800&Signature=errVAU1ZUupEVX~O3K3-UxZtk2dem8yHMh~nqD2b-9Umke9ZorhCq5mQ96NmqWydwvU31PgECTwKCDegoVYYhs~sq9ATcRH9zXqlNRqNPJT~5l2BYs6p-8zcQQ7uqHSE3lZU9uRQqE12NOdiG~BY7qUnB2JqxTAeEaolSV8F6SLlAAszjM7PVf-Ws-EcHXTBpgch0OZ6R3ag0bRipneOZUQn6HvGbn4wUjwqVc1KEsZqm4-wZ9I4FVVhOB1N6V-e03s0I8gGZWaUFp2NDb5Q27ABQHIi7hqE49tDMQaZD-0LB7Ayh70nEIVw6myYmm2l5-XW1J3xoAnxbz5bs-brmQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+     width: 100%;
+     height: 400px;
+
+}
+h3{
+     color: white;
+     margin-top: 10px;
+     margin-left: 80px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 900;
+     width: 300px;
+}
+
+p{
+     color: white;
+     margin-bottom: 30px;
+     margin-left: 100px;
+     font-weight: 400;
+
+}
+.div2{
+     align-items: flex-end;
+}
+
+.btn2{
+     justify-content: right;
+}
